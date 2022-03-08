@@ -18,4 +18,5 @@ ren .\d1\d2f2.txt d2f2n.txt
 ren .\d2\d1f1.txt d1f1n.txt
 ren .\d2\d1f2.txt d1f2n.txt
 
+cd ..
 rmdir -r d
